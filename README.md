@@ -13,7 +13,7 @@ Switching over to our graph, we don't seem to have anything out of the ordinary 
 ### Analysis Reccomendations
 * In order to see growth in sales, I would reccomend promotional offers in order to increase the amount of customers. Offering an initial free ride, or a discounted ride for first time users may see the number of total riders increase over time.
 * In the urban cities, we could hand out discount ride codes to bars to give to their customers. This would help market our business, while also giving intoxicated people a way to get home safely. 
-* Lastly, in order to increase riders in suburban areas we could 
+* Lastly, in order to increase riders in suburban areas we could have local schools raffle away free ride tickets to parents in a fundrasing event. Most suburban households have kids who go to these schools, and giving them free ride tickets could incentivise them to continue using PyBer. 
 
 
 ![Line Graph](https://github.com/yamyams97/Pyber_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
