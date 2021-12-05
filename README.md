@@ -8,7 +8,7 @@ The purpose of module 5 was to help V. Isualize create a summary of a DataFrame 
 Based on our DataFrame, we see that Urban cities had an overwhelmingly larger amount of total rides, with Rural cities being the lowest of the three. There is an inverse relationship with total rides and cost per ride and per driver. This seems to follow the economic trend of as supply and demand both increase, the cost goes down. Since more people are willing to use the ride-share service, the price has to be more affordable in order for people to want to use them. As we move into rural areas, since there are less people using it, as well as less drivers, the cost per trip will go up. We could also take into consideration the fact that urban markets are much closer in proximity, so the length of the rides are not as long as in rural areas. 
 
 ### Grpah Results
-Switching over to our graph
+Switching over to our graph, we don't seem to have anything out of the ordinary happening. There is no real increase, or decrease happening between the months of January and April. The slope of our lines are close to 0, which means our correlation coefficient is also close to 0. 
 
 
-![Line Graph}(https://github.com/yamyams97/Pyber_Analysis/blob/main/PyBer_fare_summary.png)
+![Line Graph](https://github.com/yamyams97/Pyber_Analysis/blob/main/PyBer_fare_summary.png)
