@@ -11,4 +11,4 @@ Based on our DataFrame, we see that Urban cities had an overwhelmingly larger am
 Switching over to our graph, we don't seem to have anything out of the ordinary happening. There is no real increase, or decrease happening between the months of January and April. The slope of our lines are close to 0, which means our correlation coefficient is also close to 0. 
 
 
-![Line Graph](https://github.com/yamyams97/Pyber_Analysis/blob/main/PyBer_fare_summary.png)
+![Line Graph](https://github.com/yamyams97/Pyber_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
